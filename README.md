@@ -22,10 +22,8 @@ In this Angular course we discussed all the basics of Angular framework. We have
 •	How to work with Observables and Promises in Angular<br/>
 •	Lazy loading<br/>
 •	Directive<br/>
-
-# For running server
-> npm start 
-Listen on port http://localhost:3000
+•	Environment<br/>
+•	Deployment<br/>
 
 # For running client -env prod,qa,stg
 > ng serve [ development ]
